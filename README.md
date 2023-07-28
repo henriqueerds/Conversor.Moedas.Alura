@@ -22,7 +22,8 @@ O projeto é um aplicativo de conversão de temperatura e moeda, desenvolvido em
 - Para obter ajuda sobre o projeto, os usuários podem:
 
 - Consultar a documentação e comentários no código-fonte para entender o funcionamento das classes e métodos.
-- Entrar em contato com os autores do projeto por meio do e-mail 
+- Entrar em contato com os autores do projeto por meio do e-mail:
+- Henrique01-_@hotmail.com.br
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
