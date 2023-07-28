@@ -37,3 +37,6 @@ O projeto é um aplicativo de conversão de temperatura e moeda, desenvolvido em
 - ``Java 8``
 - ``InteliJ IDEA``
 - ``Paradigma de orientação a objetos``
+
+## Badges
+<div><img src = "https://github.com/henriqueerds/Conversor.Moedas.Alura/blob/0504d5ec3f3a6aa3690c80e8518de9b843fd4e07/Imagens/cms_files_10224_1671211937Prancheta_8.png" width = 200px></div>
