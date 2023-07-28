@@ -1,6 +1,8 @@
 # Conversor.Moedas.Alura
 Programa de Conversão de Moedas
-![Capa](https://github.com/henriqueerds/Conversor.Moedas.Alura/blob/cfacd282abc19f9da12d73e3dc6164b0ad49d1f1/Imagens/2023-07-27%2023.16.16.png)
+<div>
+  <img src="https://github.com/henriqueerds/Conversor.Moedas.Alura/blob/cfacd282abc19f9da12d73e3dc6164b0ad49d1f1/Imagens/2023-07-27%2023.16.16.png" width =100% height= 400px>
+</div>
 
 # Descrição do Projeto
 O projeto é um aplicativo de conversão de temperatura e moeda, desenvolvido em Java, que permite aos usuários converter valores entre diferentes escalas de temperatura (Celsius, Fahrenheit e Kelvin) e também realizar conversões de moeda entre Real, Dólar, Euro, Libra esterlina e Iene.
